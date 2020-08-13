@@ -1,0 +1,15 @@
+.container{
+  width: 50%;
+  background-color: #f7faff;
+  box-sizing: border-box;
+  color: #000;
+  font-size: 1.25rem;
+  font-family: "Inter", sans-serif;
+  padding: 1rem;
+  border-radius: 3px;
+  border-left:6px solid #6891d6
+}
+p {
+    margin-bottom: 0.25rem;
+    margin-block-start: 9px;
+}
